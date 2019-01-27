@@ -1,0 +1,23 @@
+{
+  "name": "marketplace",
+  "version": "1.0.0",
+  "description": "Final Project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "next dev"
+  },
+  "author": "Rama",
+  "license": "ISC",
+  "dependencies": {
+    "fs-extra": "^7.0.1",
+    "ganache-cli": "^6.2.5",
+    "mocha": "^5.2.0",
+    "next": "^7.0.2",
+    "react": "^16.7.0",
+    "react-dom": "^16.7.0",
+    "solc": "^0.5.2",
+    "truffle-hdwallet-provider": "^1.0.0-web3one.5",
+    "web3": "^1.0.0-beta.37"
+  }
+}

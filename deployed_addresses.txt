@@ -1,0 +1,7 @@
+Contracts deployed on Rinkeby testnet from address 0x288F37B9ea684E57f2FDCC081F24d6AFc45d2d5f
+See: https://rinkeby.etherscan.io/address/0x288F37B9ea684E57f2FDCC081F24d6AFc45d2d5f
+
+Deployed contracts and their addresses:
+  Migrations  : 0x3b8f393BBF7F915A152d97556fDe21f160ed773b
+  Marketplace : 0x951f291D2c2615D99D53fe462284C17D34a3D75F
+  Stores      : 0xB12ae9C435B30Cb3397cf0D427E06D7F435E6a6E
